@@ -1,51 +1,36 @@
-<<<<<<< HEAD
-# Smart Greenhouse Project
+# 🌱 Smart Greenhouse Project
 
-This project demonstrates a **Smart Greenhouse Automation System** that uses **IoT** technologies to automate various processes within a greenhouse, such as climate control, irrigation, and monitoring.
+Welcome to the **Smart Greenhouse Project**! This project leverages **IoT** technologies to create a sustainable and automated greenhouse system that enhances agricultural productivity. 🌿🌍
 
-## Features
+---
 
-- **Climate Control**: Automatically optimizes temperature and humidity for better crop yields.
-- **Efficient Irrigation**: Saves water resources while boosting plant health.
-- **Solar Powered**: Uses clean energy for sustainability.
-- **Real-Time Monitoring**: Monitor your greenhouse’s performance remotely using a mobile app.
+## ✨ Features
 
-## Technologies Used
+✔️ **Climate Control**: Automatically optimizes temperature and humidity for better crop yields.  
+💧 **Efficient Irrigation**: Saves water resources while boosting plant health.  
+☀️ **Solar Powered**: Uses clean energy for sustainability.  
+📊 **Real-Time Monitoring**: Monitor your greenhouse’s performance remotely using a mobile app.
 
-- **HTML**, **CSS** for front-end design.
-- **JavaScript** for future interactivity and integration.
-- **ESP32**, **Soil Moisture Sensor**, **Water Pump Motor**, and other IoT devices for automation.
+---
 
-## Getting Started
+## 🛠️ Technologies Used
 
-To run this project locally:
+- 🌐 **HTML** and **CSS**: For building a clean and responsive front-end design.  
+- 📜 **JavaScript**: For future interactivity and integration.  
+- 🤖 **IoT Devices**:
+  - ESP32 (microcontroller)
+  - Soil Moisture Sensor
+  - Water Pump Motor
+  - Ultrasonic Sensor for Water Level
+  - Camera for Disease Detection  
+  - Heater, Fan Cooler, and Motorized Windows  
 
-1. Clone the repository:
+---
+
+## 🚀 Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/sa3dsalama/smart-greenhouse-project.git
-=======
-# Smart Greenhouse Project
-
-This project demonstrates a **Smart Greenhouse Automation System** that uses **IoT** technologies to automate various processes within a greenhouse, such as climate control, irrigation, and monitoring.
-
-## Features
-
-- **Climate Control**: Automatically optimizes temperature and humidity for better crop yields.
-- **Efficient Irrigation**: Saves water resources while boosting plant health.
-- **Solar Powered**: Uses clean energy for sustainability.
-- **Real-Time Monitoring**: Monitor your greenhouse’s performance remotely using a mobile app.
-
-## Technologies Used
-
-- **HTML**, **CSS** for front-end design.
-- **JavaScript** for future interactivity and integration.
-- **ESP32**, **Soil Moisture Sensor**, **Water Pump Motor**, and other IoT devices for automation.
-
-## Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sa3dsalama/smart-greenhouse-project.git
->>>>>>> e2ea6a1049c08307821fd5e81d1b3248703ec1fc
